@@ -44,9 +44,11 @@ delivering lectures and evaluation of reports. Also responsible for setting up c
 
 Bachelor courses
 ======
-* Elements of Machine Learning (2020-2021)
-	* Responsibilities: Course Lecturer for 20% of the course. Shared responsibilities in course
-planning, setting up curriculum, preparing lectures, assignments, delivering lectures and
-discussing solutions with TAs.
+* Hardware Programming (C++, Python, Arduino, ROS, Gazebo, Ubuntu) (2022-2024)
+	* Responsibilities: Developed and delivered projects involving hardware programming using C++ and Python. Guided students in using microcontrollers and integrating sensors (ultrasonic, temperature, motion, light, gas). Simulated robotic environments in Proteus, Tinkercad, and Fritzing, and integrated projects with ROS and Gazebo.
+ * Mobile Programming (Python, Java)(2022-2024)
+	* RResponsibilities: Taught mobile development with Java (Android Studio) and Python (Kivy). Assisted students in app development and deployment, version control with GitHub, and hands-on application building.
+ * Advanced Programming
+        * Responsibilities: Taught advanced programming concepts using C++ and Python, focusing on object-oriented programming, data structures, and optimization.
 
 
